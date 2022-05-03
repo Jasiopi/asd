@@ -1,0 +1,26 @@
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'fontello';
+  font-style: normal;
+  font-weight: normal;
+ 
+  /* fix buttons height */
+  line-height: 1em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+}
+ 
+.icon-user { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
+.icon-ok { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe801;&nbsp;'); }
+.icon-emo-happy { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe802;&nbsp;'); }
+.icon-home { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe803;&nbsp;'); }
+.icon-star-empty { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe804;&nbsp;'); }
+.icon-comment { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe805;&nbsp;'); }
+.icon-users { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe806;&nbsp;'); }
+.icon-flow-cross { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe807;&nbsp;'); }
+.icon-heart { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe808;&nbsp;'); }
+.icon-doc-inv { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf15b;&nbsp;'); }
+.icon-box { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf187;&nbsp;'); }
+.icon-tree { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf1bb;&nbsp;'); }
+.icon-blind { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf29d;&nbsp;'); }
+.icon-id-card-o { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2c3;&nbsp;'); }
